@@ -1,4 +1,4 @@
-# Hi, I'm Bilel Abid 👋
+# Hi, I'm Bilel Abid 
 
 **Third-year Telecommunications Engineering student at ENET'Com, Sfax, Tunisia.**  
 **Seeking a final-year engineering internship (PFE) for 2026–2027, focused on AI and software engineering.**
